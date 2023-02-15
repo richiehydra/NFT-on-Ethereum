@@ -5,7 +5,7 @@ module.exports = {
   solidity: '0.8.17',
   networks: {
     goerli: {
-      url: "ALCHEMY_KEY",
+      url: "AALCHEMY KEY",
       accounts: ["PRIVATE_KEY"],
     },
   },
